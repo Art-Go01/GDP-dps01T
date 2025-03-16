@@ -1,0 +1,21 @@
+{
+  "name": "gdp-dps01t",
+  "version": "1.0.0",
+  "description": "Sistema de gestion de proyectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Art-Go01/GDP-dps01T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Art-Go01/GDP-dps01T/issues"
+  },
+  "homepage": "https://github.com/Art-Go01/GDP-dps01T#readme"
+}
